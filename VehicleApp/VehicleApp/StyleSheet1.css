@@ -1,0 +1,36 @@
+﻿body {
+    text-align: center;
+    background-color: #353535;
+}
+.addMarginTopAndLeft {
+    margin-top: 1.5em;
+    margin-left: 1em;
+}
+.addButton {
+    margin-top: 1.5em;
+    margin-bottom: 5em;
+    background-color: darkorange;
+}
+.gridView {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+}
+.red {
+    color: red;
+}
+h2 {
+    color: darkorange;
+}
+.lightBlue {
+    background-color: lightblue;
+}
+.orange {
+    color: darkorange;
+}
+.whiteText {
+    color: white;
+}
+.orangeBackground {
+    background-color: darkorange;
+}
